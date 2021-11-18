@@ -1,7 +1,7 @@
 # TIFACustomBackgroundColor
  A Melonloader Mod for TIFA that allows you to change the background color
 
-##Install Intructions
+## Install Intructions
 
 * Install Melonloader on TIFA by providing your TIFA.exe when asked by the [melonloader installer] (https://github.com/HerpDerpinstine/MelonLoader/releases/latest/download/MelonLoader.Installer.exe)
 * Run TIFA. A "Mods" folder will be created.
